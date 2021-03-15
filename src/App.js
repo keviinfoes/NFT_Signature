@@ -169,7 +169,7 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <div style={{position: 'absolute', right: 20, bottom: 10,}}>
-            <a href="https://github.com/keviinfoes">
+            <a href="https://github.com/keviinfoes/NFT_Signature">
               <FontAwesomeIcon icon={faGithub} /> 
             </a>
           </div>
